@@ -14,5 +14,6 @@
 ### Combination with Mechanical Engineering ⚙️
 <a href="https://github.com/DennisLiu1993/Slider_Motion_Simulation_MFC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=Slider_Motion_Simulation_MFC"></a>
 
-
+### Funny Project (Animation Simulation)
+<a href="https://github.com/DennisLiu1993/Walking-Man"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=Walking-Man"></a>
 
