@@ -11,9 +11,15 @@
 ### Enlightened from 🌱
 <a href="https://github.com/meiqua/shape_based_matching"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meiqua&repo=shape_based_matching"></a>
 
-### Combination with Mechanical Engineering ⚙️
-<a href="https://github.com/DennisLiu1993/Slider_Motion_Simulation_MFC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=Slider_Motion_Simulation_MFC"></a>
+
+### Gaming Project 🎮🎲
+<a href="https://github.com/DennisLiu1993/BlackJack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=BlackJack"></a>
 
 ### Funny Project (Animation Simulation)
 <a href="https://github.com/DennisLiu1993/Walking-Man"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=Walking-Man"></a>
+
+### Combination with Mechanical Engineering ⚙️
+<a href="https://github.com/DennisLiu1993/Slider_Motion_Simulation_MFC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DennisLiu1993&repo=Slider_Motion_Simulation_MFC"></a>
+
+
 
